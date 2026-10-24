@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "PerTabMood",
   "version": "1.0.0",
-  "description": "PerTabMood - Independent appearance control for every browser tab",
+  "description": "PerTabMood - Every tab, its own mood.",
   "permissions": [
     "tabs",
     "storage",
