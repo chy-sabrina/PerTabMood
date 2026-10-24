@@ -11,9 +11,19 @@
   "host_permissions": [
     "<all_urls>"
   ],
+  "icons": {
+    "16": "assets/icon.png",
+    "48": "assets/icon.png",
+    "128": "assets/icon.png"
+  },
   "action": {
     "default_title": "Toggle theme for this tab",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icon.png",
+      "24": "assets/icon.png",
+      "32": "assets/icon.png"
+    }
   },
   "background": {
     "service_worker": "background.js",

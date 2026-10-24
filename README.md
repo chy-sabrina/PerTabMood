@@ -1,6 +1,8 @@
-# PerTabMood
-
-**Every tab, its own mood.**
+<div align="center">
+  <img src="assets/icon.png" width="130" alt="PerTabMood icon" />
+  <h1>PerTabMood</h1>
+  <p><strong>Every tab, its own mood.</strong></p>
+</div>
 
 Ever wanted to read one website in light mode while keeping the rest of your browser in dark mode?
 
